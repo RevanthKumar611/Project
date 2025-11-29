@@ -3,48 +3,48 @@ export const products = [
     id: 1,
     name: "Tribal Wooden Mask",
     price: 45.99,
-    image: "/IMAGES/MASK.jpg",   // Fixed
-    description: "Hand-carved wooden mask made by tribal artisans using traditional techniques passed down through generations.",
+    image: "/images/MASK.jpg",
+    description: "Hand-carved wooden mask made by tribal artisans using traditional techniques passed down through generations. Each mask tells a unique cultural story.",
     category: "Masks"
   },
   {
     id: 2,
     name: "Bamboo Weaving Basket",
     price: 32.50,
-    image: "/IMAGES/BASKET.jpg",  // Fixed
-    description: "Eco-friendly bamboo basket woven by skilled tribal weavers.",
+    image: "/images/BASKET.jpg",
+    description: "Eco-friendly bamboo basket woven by skilled tribal weavers. Perfect for storage or as a decorative piece showcasing traditional weaving patterns.",
     category: "Baskets"
   },
   {
     id: 3,
     name: "Clay Pottery Vase",
     price: 28.75,
-    image: "/IMAGES/POT.jpg",  // Fixed
-    description: "Traditional clay vase made using ancient pottery techniques.",
+    image: "/images/POT.jpg",
+    description: "Traditional clay vase made using ancient pottery techniques. Each piece is unique with natural earth tones and tribal motifs.",
     category: "Pottery"
   },
   {
     id: 4,
     name: "Tribal Beaded Necklace",
     price: 24.99,
-    image: "/IMAGES/NECKLACE.jpg",  // Fixed
-    description: "Colorful beaded necklace made with natural materials.",
+    image: "/images/NECKLACE.jpg",
+    description: "Colorful beaded necklace made with natural materials. Features traditional tribal patterns and symbols of cultural significance.",
     category: "Jewelry"
   },
   {
     id: 5,
     name: "Handwoven Tribal Rug",
     price: 89.99,
-    image: "/IMAGES/RUG.jpg",  // Fixed
-    description: "Beautiful handwoven rug featuring traditional tribal patterns.",
+    image: "/images/RUG.jpg",
+    description: "Beautiful handwoven rug featuring traditional tribal patterns and natural dyes. Made from sustainable materials by master weavers.",
     category: "Textiles"
   },
   {
     id: 6,
     name: "Wooden Tribal Statue",
     price: 65.00,
-    image: "/IMAGES/STATUE.jpg",  // Fixed
-    description: "Intricately carved wooden statue representing tribal deities.",
+    image: "/images/STATUE.jpg",
+    description: "Intricately carved wooden statue representing tribal deities and cultural icons. Made from sustainable wood sources.",
     category: "Sculptures"
   }
 ];

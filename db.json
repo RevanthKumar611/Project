@@ -1,0 +1,54 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Tribal Wooden Mask",
+      "price": 45.99,
+      "image": "/images/MASK.jpg",
+      "description": "Hand-carved wooden mask made by tribal artisans using traditional techniques passed down through generations. Each mask tells a unique cultural story.",
+      "category": "Masks"
+    },
+    {
+      "id": 2,
+      "name": "Bamboo Weaving Basket",
+      "price": 32.50,
+      "image": "/images/BASKET.jpg",
+      "description": "Eco-friendly bamboo basket woven by skilled tribal weavers. Perfect for storage or as a decorative piece showcasing traditional weaving patterns.",
+      "category": "Baskets"
+    },
+    {
+      "id": 3,
+      "name": "Clay Pottery Vase",
+      "price": 28.75,
+      "image": "/images/POT.jpg",
+      "description": "Traditional clay vase made using ancient pottery techniques. Each piece is unique with natural earth tones and tribal motifs.",
+      "category": "Pottery"
+    },
+    {
+      "id": 4,
+      "name": "Tribal Beaded Necklace",
+      "price": 24.99,
+      "image": "/images/NECKLACE.jpg",
+      "description": "Colorful beaded necklace made with natural materials. Features traditional tribal patterns and symbols of cultural significance.",
+      "category": "Jewelry"
+    },
+    {
+      "id": 5,
+      "name": "Handwoven Tribal Rug",
+      "price": 89.99,
+      "image": "/images/RUG.jpg",
+      "description": "Beautiful handwoven rug featuring traditional tribal patterns and natural dyes. Made from sustainable materials by master weavers.",
+      "category": "Textiles"
+    },
+    {
+      "id": 6,
+      "name": "Wooden Tribal Statue",
+      "price": 65.00,
+      "image": "/images/STATUE.jpg",
+      "description": "Intricately carved wooden statue representing tribal deities and cultural icons. Made from sustainable wood sources.",
+      "category": "Sculptures"
+    }
+  ],
+  "users": [],
+  "orders": []
+}
